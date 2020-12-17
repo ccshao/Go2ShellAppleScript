@@ -1,3 +1,7 @@
+Add a script to open iterm2 in new window.
+
+---
+
 # Go2ShellAppleScript
 Open a terminal window to the current directory in Finder by a simple click
 
